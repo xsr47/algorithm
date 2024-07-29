@@ -1,2 +1,2 @@
 # algorithm
-Algorithms to practice with python
+学习算法
